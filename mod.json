@@ -1,0 +1,10 @@
+{
+    "id": "com.akashortstack.confusedford",
+    "name": "Confused Ford",
+    "description": "Ford is a little confused... Makes Ford say random voice lines as you play. Compatible with Vanilla game, Randomizer, or Archipelago.",
+    "author": "Akashortstack",
+    "version": "1.0.0",
+    
+    "dependencies": [
+    ]
+}
